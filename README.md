@@ -15,7 +15,8 @@ The project demonstrates how operational data can be transformed into measurable
 ---
 ## Business Improvement Methodology
 Structured framework used to identify, prioritize, implement, and sustain operational improvements through operational data analysis and quantified business benefits.
-![Business Improvement Methodology](images/methodology.png)
+![Business Improvement Methodology](images/methodology-framework.png).
+
 
 ---
 ## Portfolio Projects
